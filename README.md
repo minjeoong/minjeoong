@@ -1,10 +1,13 @@
-### Hi there 👋
+<div align=center>
+  <h3>Hi there 👋 </h3>
+I'm Minjeong Kim. ☁
+<br><br>
+</div>
 
 
-# 💻 STACKS
+## 💻 Tech Stack
 
 <div> 
-  <h5>FrontEnd</h5>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white">
@@ -16,14 +19,10 @@
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white"> 
   <br>
-  
-  <h5>BackEnd</h5>
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
-
-  <h5>DATABASE</h5>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <br>
 
   <h5>Development Tools</h5>
@@ -43,4 +42,6 @@
 </div>
 <br><br>
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjeoong&show_icons=true&theme=radical)
+  
