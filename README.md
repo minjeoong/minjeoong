@@ -30,6 +30,8 @@ I'm Minjeong Kim. ☁
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white">    
     <img src="https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black">  
         <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green">
+                <img src="https://img.shields.io/badge/postman-E34F26?style=flat-square&logo=postman&logoColor=white">
+
   <br>
 
   <h5>Design Tools & Version Control</h5>
