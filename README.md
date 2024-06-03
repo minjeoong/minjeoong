@@ -1,6 +1,6 @@
 <div align=center>
   <h3>Hi there 👋 </h3>
-I'm Minjeong Kim. ☁
+I'm Minjeong Kim. ☁ !
 <br><br>
 </div>
 
