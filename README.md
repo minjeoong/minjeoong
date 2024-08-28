@@ -37,6 +37,7 @@ I'm Minjeong Kim. ☁ !
     <img src="https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black">  
         <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green">
                 <img src="https://img.shields.io/badge/postman-E34F26?style=flat-square&logo=postman&logoColor=white">
+                <img src="https://img.shields.io/badge/Dbeaver-382923?style=flat-square&logo=Dbeaver&logoColor=white">
 
   <br>
 
