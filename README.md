@@ -25,7 +25,6 @@ I'm Minjeong Kim. ☁ !
     <img src="https://img.shields.io/badge/zustand-82612C.svg?style=flat-square&logo=zustand&logoColor=white">
 
   <br />
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
@@ -33,7 +32,6 @@ I'm Minjeong Kim. ☁ !
 
   <h5>Development Tools</h5>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white">    
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white">    
     <img src="https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black">  
         <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green">
                 <img src="https://img.shields.io/badge/postman-E34F26?style=flat-square&logo=postman&logoColor=white">
