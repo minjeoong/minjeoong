@@ -5,51 +5,39 @@ I'm Minjeong Kim. ☁ !
 </div>
 
 
-## 💻 Tech Stack
+### 🔥 Experience / OUTSOURCING
 
-<div> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white">
-      <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
-        <img src="https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=emotion&logoColor=white">
-          <img src="https://img.shields.io/badge/reacthookform-EC5990?style=flat-square&logo=reacthookform&logoColor=white">
-  <br />
+* 코드크레인 SI 기업 Web FrontEnd [2023.09. ~ 2024.01.]
+* 퍼스트 커피랩 외주  Plan, Design, App FrontEnd [2025.01. ~ ing]
 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=black">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white"> 
-  <br />
-      <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white">
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white">
-    <img src="https://img.shields.io/badge/zustand-82612C.svg?style=flat-square&logo=zustand&logoColor=white">
+### 🚀 Activity
 
-  <br />
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <br>
-
-  <h5>Development Tools</h5>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white">    
-    <img src="https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black">  
-        <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green">
-                <img src="https://img.shields.io/badge/postman-E34F26?style=flat-square&logo=postman&logoColor=white">
-                <img src="https://img.shields.io/badge/Dbeaver-382923?style=flat-square&logo=Dbeaver&logoColor=white">
-
-  <br>
-
-  <h5>Design Tools & Version Control</h5>
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white">
-        <img src="https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue">
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-
-  <br>
-  
-</div>
-<br><br>
+<details>
+  <summary>
+    LIKELION
+  </summary>
+      <li>LIKELION x 넥슨 MAPLESTORY SUPER HACKATHON 2022 [2022.06. ~ 2022.12.]</li>
+      <li>멋쟁이 사자처럼 교내 아이디어톤 COCO팀 2등 🥈 [2023.06. ~ 2023.07.]</li>
+      <li>멋쟁이 사자처럼 2023 중앙 해커톤 첫차처럼팀 “MTGO” 서비스 FRONT [2023.07. ~ 2023.08.]</li>
+      <li>멋쟁이 사자처럼 2024 중앙 해커톤 아프지망고팀 “아프지망고” 서비스 FRONT [2024.07. ~ 2024.08.]</li>
+</details>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjeoong&show_icons=true&theme=radical)
+<details>
+  <summary>
+    KaKao X Goorm 구름톤 유니브
+  </summary>
+    <li>KaKao X Goorm 구름톤 유니브 벚꽃톤 2024  “백곰” 팀 최우수상(2등) 수상 🥈 [2024.02. ~ 2024.07.]</li>
+    <li>KaKao X Goorm 구름톤 in JEJU 왕중왕전 2024  “백곰” 팀 우수상(3등) 수상 🥉 [2024.07. ~ 2024.08.]</li>
+    <li>[Brian Impact] 사이드임팩트 스파크트랙 선정</li>
+</details>
+
+<details>
+  <summary>
+    SOPT
+  </summary>
+    <li>SOPT 35기 솝커톤  “FortunePi(3.14 = 3주에 1번 4주)” 서비스 최우수상 수상 🥈 FRONT Leader [2024.11. ~ 2024.11.]</li>
+    <li>SOPT 35기 앱잼  “COCOS” 서비스 FRONT [2024.12. ~ 2025.01.]</li>
+</details>
+
   
