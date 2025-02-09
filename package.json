@@ -1,0 +1,17 @@
+{
+  "name": "minjeoong",
+  "version": "1.0.0",
+  "description": "<div align=center>   <h3>Hi there 👋 </h3> I'm Minjeong Kim. ☁ ! <br><br> </div>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node readmeUpdate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

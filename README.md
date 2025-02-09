@@ -40,4 +40,8 @@ I'm Minjeong Kim. ☁ !
     <li>SOPT 35기 앱잼  “COCOS” 서비스 FRONT [2024.12. ~ 2025.01.]</li>
 </details>
 
-  
+### 🌱 Blog Posting
+
+
+
+
