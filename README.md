@@ -42,6 +42,7 @@ I'm Minjeong Kim. ☁ !
 
 ### 🌱 Blog Posting
 
-
-
+- [[Github] Github Action 세팅하기 (Node.js CI)](https://orange-mj.tistory.com/39)
+- [[Github] Github 이슈, PR 템플릿 만들기](https://orange-mj.tistory.com/38)
+- [[구름톤 유니브 2기 벚꽃톤 - 백곰팀  ] 해커톤 회고록](https://orange-mj.tistory.com/37)
 
