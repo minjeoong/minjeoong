@@ -27,11 +27,11 @@ jobs:
 
       - name: Commit README
         run: |
-          git config --local user.name 'your-name' # 수정
-          git config --local user.email 'your-email' # 수정
+          git config --local user.name 'minjeoong'
+          git config --local user.email 'orange_mj@naver.com'
           if [ -n "$(git status --porcelain)" ]; then
             git add README.md
-            git commit -m 'Update README with latest blog posts'
+            git commit -m 'fix: Update README with latest blog posts'
             git push
           else
             echo "No changes to commit"
