@@ -12,9 +12,9 @@ I'm Minjeong Kim. ☁ !
 
 ### 🚀 Activity
 
-<details>
+<details open>
   <summary>
-    LIKELION
+    대학생 IT 연합동아리 LIKELION 11기 아기사자, 12기 운영진
   </summary>
       <li>LIKELION x 넥슨 MAPLESTORY SUPER HACKATHON 2022 [2022.06. ~ 2022.12.]</li>
       <li>멋쟁이 사자처럼 교내 아이디어톤 COCO팀 2등 🥈 [2023.06. ~ 2023.07.]</li>
@@ -23,18 +23,18 @@ I'm Minjeong Kim. ☁ !
 </details>
 
 
-<details>
+<details open>
   <summary>
-    KaKao X Goorm 구름톤 유니브
+    KaKao X Goorm 구름톤 유니브 2기
   </summary>
-    <li>KaKao X Goorm 구름톤 유니브 벚꽃톤 2024  “백곰” 팀 최우수상(2등) 수상 🥈 [2024.02. ~ 2024.07.]</li>
+    <li>KaKao X Goorm 구름톤 유니브 벚꽃톤 2024  “백곰” 팀 최우수상(구름 대표이사상) 수상 🥈 [2024.02. ~ 2024.07.]</li>
     <li>KaKao X Goorm 구름톤 in JEJU 왕중왕전 2024  “백곰” 팀 우수상(3등) 수상 🥉 [2024.07. ~ 2024.08.]</li>
     <li>[Brian Impact] 사이드임팩트 스파크트랙 선정</li>
 </details>
 
-<details>
+<details open>
   <summary>
-    SOPT
+    대학생 연합 IT 벤처 창업 동아리, SOPT 35기
   </summary>
     <li>SOPT 35기 솝커톤  “FortunePi(3.14 = 3주에 1번 4주)” 서비스 최우수상 수상 🥈 FRONT Leader [2024.11. ~ 2024.11.]</li>
     <li>SOPT 35기 앱잼  “COCOS” 서비스 FRONT [2024.12. ~ 2025.01.]</li>
