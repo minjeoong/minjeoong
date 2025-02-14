@@ -33,7 +33,7 @@ I'm Minjeong Kim. ☁ !
 
 <details open>
   <summary>
-    대학생 연합 IT 벤처 창업 동아리, SOPT 35기
+    대학생 연합 IT 벤처 창업 동아리, [SOPT](https://sopt.org/) 35기
   </summary>
     <li> SOPT 35기 솝커톤  “FortunePi(3.14 = 3주에 1번 4주)” 서비스 최우수상 수상 🥈 FRONT Leader [2024.11. ~ 2024.11.] </li>
     <li> SOPT 35기 앱잼  “COCOS” 서비스 FRONT [2024.12. ~ 2025.01.] </li>
@@ -52,7 +52,7 @@ I'm Minjeong Kim. ☁ !
 
 ### 🌱 Blog Posting
 
+- [[WEB] ♻️ 데이터 페칭 SSR](https://orange-mj.tistory.com/41)
 - [티스토리 글 작성과 Commit 연동하기 (GithubAction)](https://orange-mj.tistory.com/40)
 - [[Github] Github Action 세팅하기 (Node.js CI)](https://orange-mj.tistory.com/39)
-- [[Github] Github 이슈, PR 템플릿 만들기](https://orange-mj.tistory.com/38)
 
