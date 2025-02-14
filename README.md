@@ -52,7 +52,7 @@ I'm Minjeong Kim. ☁ !
 
 ### 🌱 Blog Posting
 
+- [[WEB] React-Query Mutation, invalidateQueries](https://orange-mj.tistory.com/42)
 - [[WEB] ♻️ 데이터 페칭 SSR](https://orange-mj.tistory.com/41)
 - [티스토리 글 작성과 Commit 연동하기 (GithubAction)](https://orange-mj.tistory.com/40)
-- [[Github] Github Action 세팅하기 (Node.js CI)](https://orange-mj.tistory.com/39)
 
