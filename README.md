@@ -52,7 +52,7 @@ I'm Minjeong Kim. ☁ !
 
 ### 🌱 Blog Posting
 
+- [[React-Native] ios 폴더 존재하지 않는 문제](https://orange-mj.tistory.com/44)
 - [[WEB] CSR vs SSR 차이 및 특징 ( + SPA, MPA  )](https://orange-mj.tistory.com/43)
 - [[WEB] React-Query Mutation, invalidateQueries](https://orange-mj.tistory.com/42)
-- [[WEB] ♻️ 데이터 페칭 SSR](https://orange-mj.tistory.com/41)
 
