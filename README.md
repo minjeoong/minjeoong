@@ -52,7 +52,7 @@ I'm Minjeong Kim. ☁ !
 
 ### 🌱 Blog Posting
 
+- [[ 멋쟁이 사자처럼 12기 ] CSS 심화&amp; git 기술 발표](https://orange-mj.tistory.com/45)
 - [[React-Native] ios 폴더 존재하지 않는 문제](https://orange-mj.tistory.com/44)
 - [[WEB] CSR vs SSR 차이 및 특징 ( + SPA, MPA  )](https://orange-mj.tistory.com/43)
-- [[WEB] React-Query Mutation, invalidateQueries](https://orange-mj.tistory.com/42)
 
