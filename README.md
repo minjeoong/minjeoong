@@ -52,7 +52,7 @@ I'm Minjeong Kim. ☁ !
 
 ### 🌱 Blog Posting
 
+- [[Next.js] Vite 프로젝트 Next.js 로 마이그레이션](https://orange-mj.tistory.com/48)
 - [[WebApp] Dart package 오류](https://orange-mj.tistory.com/47)
 - [[Javascript] Spread 연산자 너 누군데](https://orange-mj.tistory.com/46)
-- [[ 멋쟁이 사자처럼 12기 ] CSS 심화&amp; git 기술 발표](https://orange-mj.tistory.com/45)
 
