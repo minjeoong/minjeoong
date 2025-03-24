@@ -8,7 +8,7 @@ I'm Minjeong Kim. ☁ !
 ### 🔥 Experience / OUTSOURCING
 
 * 코드크레인 SI 기업 Web FrontEnd [2023.09. ~ 2024.01.]
-* 퍼스트 커피랩 외주  Plan, Design, App FrontEnd [2025.01. ~ ing]
+* 퍼스트 커피랩 외주  Design, FrontEnd [2025.01. ~ ing]
 
 ### 🚀 Activity
 
