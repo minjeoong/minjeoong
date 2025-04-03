@@ -61,7 +61,7 @@ I'm Minjeong Kim. ☁ !
 
 ### 🌱 Blog Posting
 
+- [[Architecture] 모놀리식 아키텍쳐 vs 마이크로서비스](https://orange-mj.tistory.com/53)
 - [[Next.js] Vite 프로젝트 Next.js 로 마이그레이션](https://orange-mj.tistory.com/48)
 - [[WebApp] Dart package 오류](https://orange-mj.tistory.com/47)
-- [[Javascript] Spread 연산자 너 누군데](https://orange-mj.tistory.com/46)
 
