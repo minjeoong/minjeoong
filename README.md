@@ -8,7 +8,6 @@ I'm Minjeong Kim. ☁ !
 ### 🔥 Experience / OUTSOURCING
 
 * <a href='https://tossinvest.com/'>토스증권</a> Web Frontend Assistant [2025.03 ~ now]
-* 퍼스트 커피랩 외주  Design, FrontEnd [2025.01. ~ now]
 * 코드크레인 SI 기업 Web FrontEnd [2023.09. ~ 2024.01.]
 
 
