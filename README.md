@@ -5,7 +5,7 @@ I'm Minjeong Kim. ☁ !
 </div>
 
 
-### Experience / OUTSOURCING
+### Experience
 
 > <a href='https://tossinvest.com/'>토스증권</a> Web Frontend Assistant [2025.03 ~ now] </br >
 > 코드크레인 SI 기업 Web FrontEnd [2023.09. ~ 2024.01.]
@@ -57,7 +57,9 @@ I'm Minjeong Kim. ☁ !
    <li> 교내 디지털포렌식 동아리 Fas (2022.01 ~ 2022.12)</li>
 </details>
 
+### Contribute
 
+- [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pull/1244)
 
 ### Blog Posting
 
