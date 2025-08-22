@@ -64,7 +64,7 @@ I'm Minjeong Kim. ☁ !
 
 ### 🌱 Blog Posting
 
-- [CI/CD 구축기: Jenkins, Docker, Nginx 연동](https://orange-mj.tistory.com/54)
+- [[배포] 하나의 인스턴스에 웹, 서버, Jenkins 띄우기 (Jenkins, Nginx, Docker)](https://orange-mj.tistory.com/54)
 - [[Architecture] 모놀리식 아키텍쳐 vs 마이크로서비스](https://orange-mj.tistory.com/53)
 - [[Next.js] Vite 프로젝트 Next.js 로 마이그레이션](https://orange-mj.tistory.com/48)
 
