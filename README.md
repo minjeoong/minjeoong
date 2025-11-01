@@ -23,11 +23,17 @@ I'm Minjeong Kim. ☁ !
 
 <details open>
   <summary>
-    대학생 연합 IT 벤처 창업 동아리, <a href='https://sopt.org/'>SOPT</a> 35기 Web Frontend 파트
+    대학생 연합 IT 벤처 창업 동아리, <a href='https://sopt.org/'>SOPT</a> 36기 Web Frontend 파트 명예 OB 
+  </summary>
+    <li> 🏆 SOPT 36기 앱잼  “Bofit” 서비스 최우수상(2등)  수상 [2025.06. ~ ING ] </li>
+</details>
+
+<details open>
+  <summary>
+    대학생 연합 IT 벤처 창업 동아리, <a href='https://sopt.org/'>SOPT</a> 35기 Web Frontend 파트 YB
   </summary>
     <li> 🏆 SOPT 35기 솝커톤  “FortunePi(3.14 = 3주에 1번 4주)” 서비스 최우수상 수상 FRONT Leader [2024.11. ~ 2024.11.] </li>
     <li> SOPT 35기 앱잼  “COCOS” 서비스 FRONT [2024.12. ~ ING ] </li>
-    <li> 🏆 SOPT 36기 앱잼  “Bofit” 서비스 최우수상(2등)  수상 [2025.06. ~ ING ] </li>
 </details>
 
 <details open>
