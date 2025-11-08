@@ -7,7 +7,7 @@ I'm Minjeong Kim. ☁ !
 
 ### Experience
 
-> <a href='https://tossinvest.com/'>토스증권</a> Web Frontend Assistant [2025.03 ~ 2025.09] </br >
+> <a href='https://tossinvest.com/'>토스증권</a> Web Frontend Assistant [2025.03 ~ ING] </br >
 > 코드크레인 SI 기업 Web FrontEnd [2023.09. ~ 2024.01.]
 
 
@@ -17,7 +17,7 @@ I'm Minjeong Kim. ☁ !
   <summary>
     대학생 연합동아리, <a href='https://github.com/sopt-makers'>SOPT Makers</a> 36기
   </summary>
-    <li>SOPT 구성원들이 하나로 모일 수 있는 <a href='https://github.com/sopt-makers/sopt-crew-frontend'>모임 서비스</a> 개발, 크루팀 Front-End Developer [2025.02. ~ ING ] </li>
+    <li>SOPT 구성원들이 하나로 모일 수 있는 <a href='https://github.com/sopt-makers/sopt-crew-frontend'>모임 서비스</a> 개발, 크루팀 Front-End Developer [2025.02. ~ 2025.09] </li>
 
 </details>
 
