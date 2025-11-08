@@ -7,7 +7,7 @@ I'm Minjeong Kim. ☁ !
 
 ### Experience
 
-> <a href='https://tossinvest.com/'>토스증권</a> Web Frontend Assistant [2025.03 ~ now] </br >
+> <a href='https://tossinvest.com/'>토스증권</a> Web Frontend Assistant [2025.03 ~ 2025.09] </br >
 > 코드크레인 SI 기업 Web FrontEnd [2023.09. ~ 2024.01.]
 
 
