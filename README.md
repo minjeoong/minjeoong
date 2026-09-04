@@ -13,7 +13,7 @@ I'm Minjeong Kim. ☁ !
 
 <details >
   <summary>
-    대학생 연합동아리, <a href='https://github.com/sopt-makers'>SOPT Makers</a> 36기
+    <a href='https://github.com/sopt-makers'>SOPT Makers</a> 36기
   </summary>
     <li>SOPT 구성원들이 하나로 모일 수 있는 <a href='https://github.com/sopt-makers/sopt-crew-frontend'>모임 서비스</a> 개발, 크루팀 Front-End Developer [2025.02. ~ 2025.09] </li>
 
